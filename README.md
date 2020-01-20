@@ -8,3 +8,5 @@ This repo has code samples for my medium blog posts
 [K Nearest Neighbours article source code](https://github.com/hdev7/medium-KNN-follow-up-code)
 
 [Naive bayes article source code](https://github.com/hdev7/medium-article-naive-bayes)
+
+[Dimensionality Reduction article source code](https://github.com/hdev7/medium-blog-code-repo/blob/master/Dimensionality%20Reduction.ipynb)
